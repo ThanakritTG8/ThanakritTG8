@@ -1,4 +1,5 @@
-<img width="480" height="280" alt="image" src="https://github.com/user-attachments/assets/146ae0cd-125b-41ff-81a5-5002eb492cae" />
+<img width="1000" height="300" alt="Work hard sleep harder" src="https://github.com/user-attachments/assets/3631c2a4-9efc-42b5-8ddc-b6224531a045" />
+
 
 <h1 align="center">Hi 👋, I'm Thanakrit</h1>
 <h3 align="center">I'm Frontend engineer</h3>

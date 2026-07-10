@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/71b74647-257c-429d-ab41-09f562bd6e66" />
 
 <h1 align="center">Hi 👋, I'm Thanakrit</h1>
 <h3 align="center">I'm Frontend engineer</h3>

@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Thanakrit</h1>
-<h3 align="center">I'm Frontend engineer</h3>
+<h3 align="start">👋 Hi, I'm Thanakrit!
+I’m a Frontend Developer with 5 years of experience specializing in building dynamic and responsive web applications. While my core expertise lies in Angular and TypeScript, I also love exploring the modern frontend ecosystem and actively build projects using React and Vite.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
